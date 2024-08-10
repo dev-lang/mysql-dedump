@@ -1,0 +1,16 @@
+mysql -u root --password=root --verbose db_1 < dbdat_1.sql
+mysql -u root --password=root --verbose db_2 < dbdat_2.sql
+mysql -u root --password=root --verbose db_3 < dbdat_3.sql
+mysql -u root --password=root --verbose db_4 < dbdat_4.sql
+mysql -u root --password=root --verbose db_5 < dbdat_5.sql
+mysql -u root --password=root --verbose db_6 < dbdat_6.sql
+mysql -u root --password=root --verbose db_7 < dbdat_7.sql
+mysql -u root --password=root --verbose db_8 < dbdat_8.sql
+mysql -u root --password=root --verbose db_9 < dbdat_9.sql
+mysql -u root --password=root --verbose db_10 < dbdat_10.sql
+mysql -u root --password=root --verbose db_11 < dbdat_11.sql
+mysql -u root --password=root --verbose db_12 < dbdat_12.sql
+mysql -u root --password=root --verbose db_13 < dbdat_13.sql
+mysql -u root --password=root --verbose db_14 < dbdat_14.sql
+mysql -u root --password=root --verbose db_15 < dbdat_15.sql
+mysql -u root --password=root --verbose db_16 < dbdat_16.sql
